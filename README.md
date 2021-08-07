@@ -14,9 +14,13 @@
 
 
 
+## 实用手册
+1. 超级速查表 - 编程语言、框架和开发工具的速查表 [[Link](https://github.com/skywind3000/awesome-cheatsheets)]
+   - 包括编程语言语法，命令参数等
+
 
 
 ## References
 
-1. 
+1. Github @haoranD
 
