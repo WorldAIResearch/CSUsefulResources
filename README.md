@@ -12,6 +12,13 @@
 3. An Attempt at Demystifying Graph Deep Learning[[Link](https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/Li)]
    - 深入浅出图深度学习（英文）
 
+## AI Learning
+### Machine Learning
+
+1. 周志华西瓜书笔记 [[Link](https://github.com/Vay-keen/Machine-learning-learning-notes)]
+2. 周志华西瓜书手推公式 [[Link](https://github.com/Sophia-11/Machine-Learning-Notes)]
+
+
 
 
 ## 实用手册
