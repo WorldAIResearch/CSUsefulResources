@@ -16,10 +16,19 @@
 ### Machine Learning
 
 1. 周志华西瓜书笔记 [[Github](https://github.com/Vay-keen/Machine-learning-learning-notes)]
+
 2. 周志华西瓜书手推公式 [[Github](https://github.com/Sophia-11/Machine-Learning-Notes)]
+
 3. 机器学&深度学习代码速查表 [[Github](https://github.com/OUCMachineLearning/OUCML/tree/master/%E4%BB%A3%E7%A0%81%E9%80%9F%E6%9F%A5%E8%A1%A8)]
    - 记录时间：2021.09.13
    - 包括基础代码实现以及实现效果图
+   
+4. AI算法理论基础知识：Reflection Summary[[Github](https://github.com/sladesha/Reflection_Summary)]
+
+   - 记录时间：2021.09.27, Star: 1.9k (2021.09.27)
+   - ⭐⭐⭐⭐
+
+   - 里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识。
 
 
 ## 实用手册
