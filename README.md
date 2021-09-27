@@ -25,7 +25,7 @@
    
 4. AI算法理论基础知识：Reflection Summary[[Github](https://github.com/sladesha/Reflection_Summary)]
 
-   - 记录时间：2021.09.27, Star: 1.9k (2021.09.27)
+   - 记录时间：2021.09.27,   *Last updated: 2020.09* , Star: 1.9k (2021.09.27)
    - ⭐⭐⭐⭐
 
    - 里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识。
